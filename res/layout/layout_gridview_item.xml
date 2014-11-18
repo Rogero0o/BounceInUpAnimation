@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:text="我是普通的item" />
+
+    <com.roger.bounceinup_demo.BounceInUpWidget
+        android:id="@+id/widget"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:visibility="gone" >
+    </com.roger.bounceinup_demo.BounceInUpWidget>
+
+</RelativeLayout>

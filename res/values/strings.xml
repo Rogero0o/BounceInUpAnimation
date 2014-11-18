@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BounceInUp_Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bounceinup_text1">Item1</string>
+    <string name="bounceinup_text2">Item2</string>
+    <string name="bounceinup_text3">Item3</string>
+
+</resources>
